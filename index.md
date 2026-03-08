@@ -7,9 +7,9 @@ This project implements a simplified solver inspired by the Navier–Stokes equa
 ---
 
 ## Simulation Animation
+Lid driven fluid flow animation
 
 ![Fluid Simulation](lid driven fluid flow gif.gif)
-
 ---
 
 ## Project Overview
